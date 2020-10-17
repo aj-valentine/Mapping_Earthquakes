@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Analysis Using JavaScript, GeoJSON APIs, HTML and CSS
+Analysis Using JavaScript, GeoJSON APIs, Leaflet, HTML and CSS
 
 ## Overview of the Earthquakes Map Analysis :earth_americas:
 
